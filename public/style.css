@@ -36,3 +36,16 @@ body {
 .sign {
     display: inline;
 }
+
+.container {
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
+
+.item {
+    background-color: #f2f2f2 ;
+}
+
+.center-item {
+    background-color: #fff;
+}
